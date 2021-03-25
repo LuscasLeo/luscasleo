@@ -1,16 +1,35 @@
-### Hi there 👋
+# <code>**Hello you!**</code> My name is **Lucas Silva**
 
-<!--
-**LuscasLeo/luscasleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_I'm a young developer looking for my place in the community._
 
-Here are some ideas to get you started:
+<!-- ## About me
+- 🇧🇷 Brazilian.
+- 👦 21 Years old
+- 🤔 **Curious.** -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 21, brazilian, and a very curious one. I love building things, to bring solutions for complex problems.
+
+### I'm not specific language specialist (yet) but i have some skills on many of the most used techonologies 👇
+
+<p>
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+    <img style="width: 4rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" />
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luscasleo&show_icons=true&locale=en&layout=compact" alt="luscasleo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luscasleo&show_icons=true&locale=en" alt="luscasleo" /></p>
