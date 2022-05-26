@@ -2,7 +2,7 @@
 
 _I'm a young developer looking for my place in the community._
 
-### 21, brazilian, and a very curious one. I love building things, to bring solutions for complex problems.
+### 23, brazilian, and a very curious one. I love building things, to bring solutions for complex problems.
 
 ### I'm not specific language specialist (yet) but i have some skills on many of the most used techonologies 👇
 
